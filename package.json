@@ -1,0 +1,23 @@
+{
+  "name": "jenkins-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jasmine ./test/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinalp60/jenkins-example.git"
+  },
+  "author": "jinal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jinalp60/jenkins-example/issues"
+  },
+  "homepage": "https://github.com/jinalp60/jenkins-example#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "supertest": "^4.0.2"
+  }
+}
