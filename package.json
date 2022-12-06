@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/jinalp60/jenkins-example#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "jasmine": "^3.4.0",
     "supertest": "^4.0.2"
   }
